@@ -7,13 +7,14 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 
+// fumo  bareta
+
 
 
 namespace reto2
 {
     public partial class INICIO : Form
     {
-        // Constructor del formulario INICIO
         public INICIO()
         {
             InitializeComponent();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2.csproj": {}
+    "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2\\reto2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2.csproj": {
+    "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2\\reto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2.csproj",
+        "projectUniqueName": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2\\reto2.csproj",
         "projectName": "reto2",
-        "projectPath": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2.csproj",
+        "projectPath": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2\\reto2.csproj",
         "packagesPath": "C:\\Users\\Kely Barrientos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\obj\\",
+        "outputPath": "C:\\Users\\Kely Barrientos\\Desktop\\reto2\\reto2\\reto2\\reto2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
