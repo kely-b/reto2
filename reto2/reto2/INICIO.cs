@@ -7,7 +7,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 
-// fumo  bareta
+// ya no fumo bareta solo kely 
 
 
 
@@ -27,7 +27,7 @@ namespace reto2
 
             if (usuario == "user" && clave == "123")
             {
-                MessageBox.Show("¡Inicio de sesión exitoso!");
+                MessageBox.Show("Â¡Inicio de sesiÃ³n exitoso!");
 
                 this.Hide();
 
